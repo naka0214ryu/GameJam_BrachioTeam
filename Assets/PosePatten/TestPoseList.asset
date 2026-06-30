@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fde93c66be4d8344a962d5159e53055b, type: 3}
+  m_Name: TestPoseList
+  m_EditorClassIdentifier: 
+  poses:
+  - {fileID: 11400000, guid: bd69c84b90b305349992b2cd889a9649, type: 2}
+  - {fileID: 11400000, guid: 5dfad5192dcaed94e83fed5492dc5e35, type: 2}
+  - {fileID: 11400000, guid: 7f4c3763976245f458820a8b0d5e26e5, type: 2}

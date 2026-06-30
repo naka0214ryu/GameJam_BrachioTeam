@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83824383304fb214fb3215d8c27b5aac, type: 3}
+  m_Name: PoseData12
+  m_EditorClassIdentifier: 
+  bones:
+  - boneName: "\u3072\u3058\u304B\u3089\u624B\u9996_L"
+    localPosition: {x: -0.615, y: 2.7849998, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u80A9\u304B\u3089\u3072\u3058_L"
+    localPosition: {x: -0.43499994, y: 3.31, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u80A9\u304B\u3089\u3072\u3058_R"
+    localPosition: {x: 0.28499985, y: 3.215, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u3072\u3058\u304B\u3089\u624B\u9996_R"
+    localPosition: {x: 0.42499995, y: 3.195, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u4E0A\u534A\u8EAB"
+    localPosition: {x: 0.089999914, y: 2.495, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u4E0B\u534A\u8EAB"
+    localPosition: {x: -0.059999943, y: 2.36, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u6839\u672C\u304B\u3089\u819D_L"
+    localPosition: {x: -0.34000015, y: 1.51, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u819D\u304B\u3089\u8DB3\u5143_L"
+    localPosition: {x: -0.51, y: 2.075, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u6839\u5143\u304B\u3089\u819D_R"
+    localPosition: {x: 0.044999838, y: 2.06, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u819D\u304B\u3089\u8DB3\u5143_R"
+    localPosition: {x: 0.41999984, y: 1.65, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: "\u982D"
+    localPosition: {x: 4.61, y: 4.04, z: 0}
+    localRotation: {x: -0, y: -0, z: -0, w: 1}
+  - boneName: Body_Center
+    localPosition: {x: -0.0057866573, y: 2.079351, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.7079444, w: 0.7062682}
+  - boneName: Body_Bottom
+    localPosition: {x: 0.09597785, y: -0.00000004672964, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.22829562, w: 0.97359186}
+  - boneName: Body_Top
+    localPosition: {x: 0.5823051, y: 0.0010379569, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.15685958, w: 0.98762095}
+  - boneName: Head
+    localPosition: {x: 1.0162761, y: 0.030933943, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.054241307, w: 0.9985279}
+  - boneName: Arm1_L
+    localPosition: {x: 0.74754757, y: 0.3474812, z: 0}
+    localRotation: {x: 0, y: -0, z: 0.27040794, w: 0.9627459}
+  - boneName: Arm2_L
+    localPosition: {x: 0.7101364, y: 0.00000006937356, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.89678335, w: 0.44246995}
+  - boneName: Arm3_L
+    localPosition: {x: 0.47016767, y: -0.00000012268968, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.06342226, w: -0.99798685}
+  - boneName: Arm1_R
+    localPosition: {x: 0.7773661, y: -0.29747605, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.8013885, w: 0.5981442}
+  - boneName: Arm2_R
+    localPosition: {x: 0.5871498, y: 0.00000014360685, z: 0}
+    localRotation: {x: 0, y: -0, z: -0.00000023126988, w: 1}
+  - boneName: Arm3_R
+    localPosition: {x: 0.5993494, y: 0.000000059404552, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.19722502, w: 0.9803583}
+  - boneName: Leg1_L
+    localPosition: {x: -0.19031698, y: 0.2870623, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.62280124, w: 0.7823801}
+  - boneName: Leg2_L
+    localPosition: {x: 0.52393484, y: -0.000000036857287, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.061975967, w: 0.99807763}
+  - boneName: Leg3_L
+    localPosition: {x: 0.5181595, y: -0.00000035618194, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.09047243, w: -0.995899}
+  - boneName: Leg1_R
+    localPosition: {x: -0.17965543, y: -0.25002134, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9591027, w: -0.28305852}
+  - boneName: Leg2_R
+    localPosition: {x: 0.53122306, y: 0.00000007445877, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.47194678, w: 0.881627}
+  - boneName: Leg3_R
+    localPosition: {x: 0.46560276, y: 0.00000034716035, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.007829871, w: -0.9999694}
+  - boneName: Arm_L_LS2D
+    localPosition: {x: 0.6496577, y: 1.533849, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7079444, w: 0.7062682}
+  - boneName: Arm_R_LS2D
+    localPosition: {x: 1.943669, y: -0.47132695, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7079444, w: 0.7062682}
+  - boneName: Leg_L_LS2D
+    localPosition: {x: 0.10493775, y: 1.2843657, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7079444, w: 0.7062682}
+  - boneName: Leg_R_LS2D
+    localPosition: {x: -1.0529463, y: -0.35327613, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7079444, w: 0.7062682}
+  - boneName: Body_CCD
+    localPosition: {x: 1.5821986, y: 1.2233763, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.7079444, w: 0.7062682}

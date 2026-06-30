@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6003d88313953f947b161c86b0ad264d, type: 3}
+  m_Name: TestIKPoseList
+  m_EditorClassIdentifier: 
+  poses:
+  - {fileID: 11400000, guid: 6d639a2472d590e44acc8419129d8ce3, type: 2}
+  - {fileID: 11400000, guid: 69bbc976f8169fa4e9c591840fc1ad0c, type: 2}
+  - {fileID: 11400000, guid: d2bc3d1b5b3797f46a52b1853c2e3feb, type: 2}
+  - {fileID: 11400000, guid: 46f1a263e11a53a449b697ee16bab4c7, type: 2}
+  - {fileID: 11400000, guid: 45953858b2de56948bfc4fbe9f37aa99, type: 2}
+  - {fileID: 11400000, guid: 1d732491c531ede42b3495404cdd4c4c, type: 2}
+  - {fileID: 11400000, guid: fc06969ab2abedf41a5f99aab8110f40, type: 2}
+  - {fileID: 11400000, guid: 74bdd8be1695dd648a4f036ad057588c, type: 2}
+  - {fileID: 11400000, guid: 224cede7065e38945827a32919b4202a, type: 2}
+  - {fileID: 11400000, guid: 918e5c62ebc02c04794b941b2485a1cd, type: 2}
+  - {fileID: 11400000, guid: f43f9b0590b57a542bd449ec13809790, type: 2}
+  - {fileID: 11400000, guid: d0875a7ddeea4914199ef636549ea08e, type: 2}
+  - {fileID: 11400000, guid: da4c4d163641fa84ca6b5d34860a1696, type: 2}
